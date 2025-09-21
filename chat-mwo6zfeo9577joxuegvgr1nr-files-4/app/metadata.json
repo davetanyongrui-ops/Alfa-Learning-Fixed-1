@@ -1,0 +1,28 @@
+{
+  "/": {
+    "title": "ALFA LEARNING | Online Classes for Basic, Intermediate & Advanced Levels",
+    "description": "Transform your future with ALFA LEARNING's comprehensive online education platform. From basic foundations to GCE A-Levels, we prepare students for the digital age with English, Chinese, Math, and LCCI courses.",
+    "ogImage": "/og-home.jpg"
+  },
+  "/about": {
+    "title": "About Us | ALFA LEARNING - Preparing Students for Web 3.0 & AI Future",
+    "description": "Discover how ALFA LEARNING is revolutionizing education for the digital age. Learn about Web 3.0, blockchain technology, AI impact, and how we prepare students for tomorrow's world.",
+    "ogImage": "/og-about.jpg"
+  },
+  "/classes": {
+    "title": "Our Classes | ALFA LEARNING Basic, Intermediate & Advanced Online Courses",
+    "description": "Explore ALFA LEARNING's comprehensive course offerings: Basic preparation classes, Singapore-standard Intermediate courses, and Advanced GCE O-Level & A-Level preparation.",
+    "ogImage": "/og-classes.jpg"
+  },
+  "/teachers": {
+    "title": "Join Our Team | ALFA LEARNING International Teaching Opportunities",
+    "description": "ALFA LEARNING is recruiting qualified teachers with international standards. Join our mission to prepare students for the future of technology and education.",
+    "ogImage": "/og-teachers.jpg"
+  },
+  "/contact": {
+    "title": "Contact Us | Enroll in ALFA LEARNING Online Classes",
+    "description": "Ready to start your educational journey with ALFA LEARNING? Contact us for enrollment, course information, or teacher applications. Transform your future today.",
+    "ogImage": "/og-contact.jpg"
+  }
+}
+

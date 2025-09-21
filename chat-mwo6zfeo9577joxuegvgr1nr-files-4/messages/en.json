@@ -1,0 +1,666 @@
+{
+  "navigation": {
+    "home": "Home",
+    "classes": "Classes",
+    "about": "About Us",
+    "teachers": "Teachers",
+    "contact": "Contact",
+    "enrollNow": "Enroll Now"
+  },
+  "hero": {
+    "badge": "🚀 Preparing Students for Tomorrow's World",
+    "title": "Transform Your Future with",
+    "brandName": "ALFA LEARNING",
+    "description": "From Basic Foundations to the Singapore GCE 'O' and A' Levels, as well as the internationally acclaimed London Chamber of Commerce and Industry (LCCI) certificates and diploma, we offer comprehensive online education that bridges traditional learning with tomorrow's digital world. Join thousands of students preparing for the age of AI and Web 3.0.",
+    "exploreClasses": "Explore Classes",
+    "learnMore": "Learn More"
+  },
+  "courses": {
+    "badge": "Course Levels",
+    "title": "Our Course Levels",
+    "subtitle": "Structured learning paths designed to take you from beginner to advanced levels",
+    "basic": {
+      "title": "Basic Level",
+      "description": "Foundation courses preparing students for intermediate level",
+      "level": "Beginner",
+      "subjects": {
+        "english": "English Basics",
+        "chinese": "Chinese Fundamentals", 
+        "math": "Simple Mathematics"
+      }
+    },
+    "intermediate": {
+      "title": "Intermediate Level",
+      "description": "Singapore-standard courses taught by qualified graduates",
+      "level": "Intermediate",
+      "subjects": {
+        "english": "Advanced English",
+        "chinese": "Chinese Literature",
+        "math": "Mathematics"
+      }
+    },
+    "advanced": {
+      "title": "Advanced Level",
+      "description": "GCE O-Level and A-Level preparation courses",
+      "level": "Advanced",
+      "subjects": {
+        "oLevel": "GCE O-Level Prep",
+        "aLevel": "GCE A-Level Prep",
+        "lcci": "LCCI Courses"
+      }
+    }
+  },
+  "subjects": {
+    "badge": "Subjects",
+    "title": "Subjects We Teach",
+    "subtitle": "Comprehensive curriculum covering essential skills for the modern world",
+    "english": {
+      "name": "English",
+      "description": "From basics to advanced literature"
+    },
+    "chinese": {
+      "name": "Chinese",
+      "description": "Mandarin language and culture"
+    },
+    "mathematics": {
+      "name": "Mathematics",
+      "description": "From simple math to advanced calculus"
+    },
+    "lcci": {
+      "name": "LCCI",
+      "description": "London Chamber of Commerce qualifications"
+    }
+  },
+  "features": {
+    "badge": "Why Choose Us",
+    "title": "Why Choose ALFA LEARNING?",
+    "subtitle": "We're not just teaching subjects - we're preparing minds for the future",
+    "international": {
+      "title": "International Standards",
+      "description": "Singapore-qualified teachers with international certifications"
+    },
+    "futureReady": {
+      "title": "Future-Ready Education",
+      "description": "Preparing students for Web 3.0, AI, and the digital economy"
+    },
+    "flexible": {
+      "title": "Flexible Learning",
+      "description": "Online classes that fit your schedule and learning pace"
+    }
+  },
+  "cta": {
+    "title": "Ready to Start Your Learning Journey?",
+    "description": "Join thousands of students who are already preparing for tomorrow's world. Enroll today and transform your future with ALFA LEARNING.",
+    "enrollNow": "Enroll Now",
+    "viewClasses": "View All Classes"
+  },
+  "classes": {
+    "hero": {
+      "badge": "🎓 Structured Learning Paths",
+      "title": "Our",
+      "titleHighlight": "Course Offerings",
+      "description": "From foundational basics to advance GCE and LCCI preparations, our structured learning paths ensure every student progresses confidently toward their educational goals. Choose your level and start your transformation today."
+    },
+    "levels": {
+      "basic": {
+        "title": "Basic Level",
+        "subtitle": "Foundation for Success",
+        "description": "Essential preparation courses designed to build strong fundamentals and prepare students for intermediate-level studies.",
+        "duration": "6-12 months",
+        "students": "500+ enrolled",
+        "subjects": {
+          "english": {
+            "name": "English Basics",
+            "description": "Fundamental grammar, vocabulary, and communication skills",
+            "topics": ["Basic Grammar", "Vocabulary Building", "Simple Conversations", "Reading Comprehension"]
+          },
+          "chinese": {
+            "name": "Chinese Fundamentals",
+            "description": "Introduction to Mandarin language and basic characters",
+            "topics": ["Pinyin System", "Basic Characters", "Simple Phrases", "Cultural Context"]
+          },
+          "math": {
+            "name": "Simple Mathematics",
+            "description": "Core mathematical concepts and problem-solving skills",
+            "topics": ["Arithmetic Operations", "Basic Algebra", "Geometry Basics", "Word Problems"]
+          }
+        },
+        "goals": [
+          "Master fundamental concepts in all subjects",
+          "Develop strong study habits and learning strategies",
+          "Build confidence for intermediate-level coursework",
+          "Achieve readiness for Singapore-standard education"
+        ]
+      },
+      "intermediate": {
+        "title": "Intermediate Level",
+        "subtitle": "Singapore Standard Excellence",
+        "description": "Comprehensive courses taught by Singapore-qualified graduates, following international standards to prepare for advanced studies.",
+        "duration": "12-18 months",
+        "students": "300+ enrolled",
+        "subjects": {
+          "english": {
+            "name": "Advanced English",
+            "description": "Literature, advanced grammar, and academic writing skills",
+            "topics": ["Literary Analysis", "Essay Writing", "Advanced Grammar", "Public Speaking"]
+          },
+          "chinese": {
+            "name": "Chinese Literature",
+            "description": "Classical and modern Chinese texts with cultural studies",
+            "topics": ["Classical Poetry", "Modern Literature", "Cultural Studies", "Advanced Writing"]
+          },
+          "math": {
+            "name": "Mathematics",
+            "description": "Algebra, geometry, and introduction to calculus concepts",
+            "topics": ["Advanced Algebra", "Trigonometry", "Statistics", "Pre-Calculus"]
+          }
+        },
+        "goals": [
+          "Meet Singapore educational standards",
+          "Develop critical thinking and analytical skills",
+          "Prepare for GCE-level examinations",
+          "Build academic research and presentation abilities"
+        ]
+      },
+      "advanced": {
+        "title": "Advanced Level",
+        "subtitle": "GCE Excellence",
+        "description": "Intensive preparation for GCE O-Level and A-Level examinations, plus specialized LCCI business qualifications.",
+        "duration": "18-24 months",
+        "students": "200+ enrolled",
+        "subjects": {
+          "oLevel": {
+            "name": "GCE O-Level Preparation",
+            "description": "Comprehensive preparation for General Certificate of Education",
+            "topics": ["Exam Techniques", "Subject Mastery", "Practice Tests", "Time Management"]
+          },
+          "aLevel": {
+            "name": "GCE A-Level Preparation",
+            "description": "Advanced level preparation for university entrance",
+            "topics": ["Advanced Topics", "University Prep", "Research Projects", "Critical Analysis"]
+          },
+          "lcci": {
+            "name": "LCCI Courses",
+            "description": "London Chamber of Commerce & Industry business qualifications",
+            "topics": ["Business Studies", "Accounting", "Marketing", "International Trade"]
+          },
+          "specialized": {
+            "name": "Specialized Subjects",
+            "description": "Subject-specific intensive courses based on student goals",
+            "topics": ["Sciences", "Humanities", "Languages", "Mathematics"]
+          }
+        },
+        "goals": [
+          "Achieve excellent GCE O-Level and A-Level results",
+          "Gain internationally recognized qualifications",
+          "Prepare for university admission worldwide",
+          "Develop professional business skills through LCCI"
+        ]
+      }
+    },
+    "subjectsOverview": {
+      "badge": "Subjects",
+      "title": "Subjects We Specialize In",
+      "subtitle": "Comprehensive curriculum designed to build expertise across essential academic and professional areas",
+      "subjects": {
+        "english": {
+          "name": "English",
+          "description": "From basic communication to advanced literature and academic writing",
+          "levels": ["Basic Grammar & Vocabulary", "Intermediate Literature", "Advanced Academic Writing"]
+        },
+        "chinese": {
+          "name": "Chinese",
+          "description": "Mandarin language learning from fundamentals to advanced literature",
+          "levels": ["Pinyin & Basic Characters", "Intermediate Conversation", "Classical Literature"]
+        },
+        "mathematics": {
+          "name": "Mathematics",
+          "description": "Mathematical concepts from basic arithmetic to advanced calculus",
+          "levels": ["Basic Arithmetic", "Algebra & Geometry", "Calculus & Statistics"]
+        },
+        "lcci": {
+          "name": "LCCI",
+          "description": "London Chamber of Commerce business and professional qualifications",
+          "levels": ["Business Fundamentals", "Accounting Principles", "International Trade"]
+        }
+      },
+      "progressionPath": "Progression Path:",
+      "keyTopics": "Key Topics:"
+    },
+    "teacherQuality": {
+      "badge": "🌟 World-Class Education",
+      "title": "Singapore-Qualified Educators",
+      "description": "Our intermediate and advanced courses are taught exclusively by graduates and undergraduates from Singapore's prestigious educational institutions, ensuring world-class teaching standards.",
+      "qualifications": [
+        "International teaching qualifications",
+        "Singapore education system expertise",
+        "Proven track record of student success"
+      ],
+      "standards": {
+        "title": "Our Teaching Standards",
+        "singaporeTeachers": "Singapore-Qualified Teachers",
+        "successRate": "Student Success Rate",
+        "experience": "Years Average Experience"
+      }
+    },
+    "cta": {
+      "title": "Ready to Begin Your Learning Journey?",
+      "description": "Choose your level and start building the skills you need for tomorrow's world. Our expert teachers are ready to guide you every step of the way.",
+      "enrollNow": "Enroll Now",
+      "meetTeachers": "Meet Our Teachers"
+    },
+    "learningGoals": "Learning Goals & Outcomes"
+  },
+  "teachers": {
+    "hero": {
+      "badge": "🌟 Join Our Teaching Team",
+      "title": "Shape the Future of",
+      "titleHighlight": "Education",
+      "description": "We're seeking passionate, qualified educators with international standards to join ALFA LEARNING's mission of preparing students for tomorrow's world. If you have Singapore qualifications or equivalent international credentials, we want to hear from you.",
+      "applyNow": "Apply Now",
+      "learnMore": "Learn More"
+    },
+    "benefits": {
+      "badge": "Benefits",
+      "title": "Why Teach with ALFA LEARNING?",
+      "subtitle": "Join a forward-thinking educational platform that values excellence, innovation, and global impact",
+      "items": {
+        "compensation": {
+          "title": "Competitive Compensation",
+          "description": "Above-market rates with performance bonuses"
+        },
+        "schedule": {
+          "title": "Flexible Schedule",
+          "description": "Choose your hours and work-life balance"
+        },
+        "impact": {
+          "title": "Global Impact",
+          "description": "Teach students from around the world"
+        },
+        "growth": {
+          "title": "Professional Growth",
+          "description": "Continuous training and career development"
+        },
+        "meaningful": {
+          "title": "Meaningful Work",
+          "description": "Shape the future of education and technology"
+        },
+        "curriculum": {
+          "title": "Modern Curriculum",
+          "description": "Teach cutting-edge, future-focused content"
+        }
+      }
+    },
+    "requirements": {
+      "badge": "Requirements",
+      "title": "What We're Looking For",
+      "subtitle": "We maintain high standards to ensure our students receive world-class education",
+      "items": {
+        "qualifications": {
+          "title": "International Qualifications",
+          "description": "Bachelor's degree or higher from recognized institutions",
+          "details": [
+            "Singapore university graduates preferred",
+            "International teaching certifications",
+            "Subject-specific qualifications"
+          ]
+        },
+        "experience": {
+          "title": "Teaching Experience",
+          "description": "Minimum 2 years of teaching experience",
+          "details": [
+            "Online teaching experience preferred",
+            "Experience with international curricula",
+            "GCSE/A-Level teaching background"
+          ]
+        },
+        "expertise": {
+          "title": "Subject Expertise",
+          "description": "Deep knowledge in one or more of our core subjects",
+          "details": [
+            "English Language & Literature",
+            "Chinese Language & Literature",
+            "Mathematics",
+            "LCCI Business Studies"
+          ]
+        },
+        "communication": {
+          "title": "Communication Skills",
+          "description": "Excellent English communication and digital literacy",
+          "details": [
+            "Fluent in English",
+            "Comfortable with online platforms",
+            "Student-centered teaching approach"
+          ]
+        }
+      }
+    },
+    "singaporeStandards": {
+      "badge": "🇸🇬 Singapore Excellence",
+      "title": "Singapore Educational Standards",
+      "description": "Our intermediate and advanced courses follow Singapore's world-renowned educational standards, consistently ranked among the top globally.",
+      "highlights": [
+        "Top 3 global education system",
+        "International recognition and transferability",
+        "Focus on critical thinking and problem-solving"
+      ],
+      "preferredQualifications": {
+        "title": "Preferred Qualifications",
+        "items": [
+          "Singapore university graduates",
+          "Teaching experience in Singapore system",
+          "International teaching certifications",
+          "GCSE/A-Level teaching background"
+        ]
+      }
+    },
+    "application": {
+      "badge": "Application",
+      "title": "Apply to Join Our Team",
+      "subtitle": "Ready to make a difference? Submit your application and let's discuss how you can contribute to our mission.",
+      "form": {
+        "title": "Teacher Application Form",
+        "subtitle": "Please provide your details and we'll get back to you within 48 hours",
+        "fields": {
+          "name": "Full Name",
+          "email": "Email Address",
+          "phone": "Phone Number",
+          "location": "Location/Country",
+          "subject": "Primary Subject",
+          "experience": "Years of Experience",
+          "qualifications": "Qualifications & Certifications",
+          "availability": "Availability",
+          "message": "Why do you want to join ALFA LEARNING?"
+        },
+        "placeholders": {
+          "name": "Your full name",
+          "email": "your.email@example.com",
+          "phone": "+6281371352788",
+          "location": "Singapore, Malaysia, Indonesia, etc.",
+          "subject": "Select your subject",
+          "experience": "Select experience",
+          "qualifications": "Please list your degrees, certifications, and relevant qualifications...",
+          "availability": "When are you available to start? What are your preferred teaching hours?",
+          "message": "Tell us about your teaching philosophy and why you're interested in our mission..."
+        },
+        "subjects": [
+          "English Language",
+          "English Literature",
+          "Chinese Language",
+          "Chinese Literature",
+          "Mathematics",
+          "LCCI Business Studies",
+          "Science (General)",
+          "Other"
+        ],
+        "experienceOptions": [
+          "1-2 years",
+          "3-5 years",
+          "6-10 years",
+          "10+ years"
+        ],
+        "submit": "Submit Application"
+      }
+    },
+    "contactInfo": {
+      "badge": "Questions?",
+      "title": "Questions About Teaching with Us?",
+      "subtitle": "We're here to help you understand our requirements and application process",
+      "contactUs": "Contact Us",
+      "learnMission": "Learn About Our Mission"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "📞 Get in Touch",
+      "title": "Start Your Learning",
+      "titleHighlight": "Journey Today",
+      "description": "Ready to transform your future with ALFA LEARNING? Whether you're enrolling as a student, have questions about our courses, or want to join our teaching team, we're here to help you take the next step."
+    },
+    "contactInfo": {
+      "badge": "Contact Information",
+      "title": "How to Reach Us",
+      "subtitle": "Multiple ways to connect with our ALFA LEARNING team",
+      "items": {
+        "email": {
+          "title": "Email Us",
+          "details": "Alfanugerah.yongrui@gmail.com",
+          "description": "Get a response within 24 hours"
+        },
+        "whatsapp": {
+          "title": "WhatsApp",
+          "details": "+6281371352788",
+          "description": "Quick responses via WhatsApp"
+        },
+        "location": {
+          "title": "Location",
+          "details": "International Online",
+          "description": "Online classes worldwide"
+        },
+        "hours": {
+          "title": "Office Hours",
+          "details": "9:00 AM - 6:00 PM",
+          "description": "Indonesia Time (WIB)"
+        }
+      }
+    },
+    "forms": {
+      "badge": "Contact Forms",
+      "title": "Get Started Now",
+      "subtitle": "Choose the option that best fits your needs",
+      "enrollment": {
+        "tab": "Student Enrollment",
+        "title": "Student Enrollment Form",
+        "subtitle": "Complete this form to begin your educational journey with ALFA LEARNING",
+        "fields": {
+          "studentName": "Student Name",
+          "parentName": "Parent/Guardian Name",
+          "email": "Email Address",
+          "phone": "Phone Number",
+          "age": "Student Age",
+          "currentLevel": "Current Level",
+          "interestedSubjects": "Interested Subjects",
+          "preferredSchedule": "Preferred Schedule",
+          "goals": "Learning Goals",
+          "message": "Additional Information"
+        },
+        "placeholders": {
+          "studentName": "Full name of the student",
+          "parentName": "For students under 18",
+          "email": "your.email@example.com",
+          "phone": "+6281371352788",
+          "age": "Age in years",
+          "currentLevel": "Select current level",
+          "interestedSubjects": "Select subjects",
+          "preferredSchedule": "e.g., Weekends, Evenings",
+          "goals": "What do you hope to achieve? (e.g., GCSE preparation, improve English, etc.)",
+          "message": "Any specific requirements, questions, or additional information..."
+        },
+        "levels": [
+          "Complete Beginner",
+          "Basic Level",
+          "Intermediate Level",
+          "Advanced Level",
+          "GCSE O-Level Prep",
+          "GCSE A-Level Prep",
+          "Not Sure"
+        ],
+        "subjects": [
+          "English Language",
+          "English Literature",
+          "Chinese Language",
+          "Chinese Literature",
+          "Mathematics",
+          "LCCI Business Studies",
+          "Multiple Subjects",
+          "Not Sure Yet"
+        ],
+        "submit": "Submit Enrollment Application",
+        "submitting": "Submitting Application...",
+        "success": "Enrollment application submitted successfully! We'll contact you within 24 hours."
+      },
+      "inquiry": {
+        "tab": "General Inquiry",
+        "title": "General Inquiry Form",
+        "subtitle": "Have questions? We're here to help with any information you need",
+        "fields": {
+          "name": "Full Name",
+          "email": "Email Address",
+          "phone": "Phone Number",
+          "inquiryType": "Inquiry Type",
+          "message": "Your Message"
+        },
+        "placeholders": {
+          "name": "Your full name",
+          "email": "your.email@example.com",
+          "phone": "+6281371352788",
+          "inquiryType": "Select inquiry type",
+          "message": "Please describe your inquiry in detail..."
+        },
+        "inquiryTypes": [
+          "Course Information",
+          "Pricing & Packages",
+          "Teacher Qualifications",
+          "Technical Support",
+          "Partnership Opportunities",
+          "Other"
+        ],
+        "submit": "Send Inquiry",
+        "submitting": "Sending Inquiry...",
+        "success": "Inquiry submitted successfully! We'll respond within 24 hours."
+      }
+    },
+    "quickActions": {
+      "badge": "Quick Actions",
+      "title": "Other Ways to Connect",
+      "subtitle": "Explore more options to get the information you need",
+      "items": {
+        "teachers": {
+          "title": "Join Our Teaching Team",
+          "description": "Qualified educators with international standards are welcome to apply",
+          "action": "Apply as Teacher"
+        },
+        "classes": {
+          "title": "Explore Our Classes",
+          "description": "Learn more about our Basic, Intermediate, and Advanced course offerings",
+          "action": "View Classes"
+        },
+        "mission": {
+          "title": "About Our Mission",
+          "description": "Discover how we're preparing students for the future of technology",
+          "action": "Learn More"
+        }
+      }
+    },
+    "responsePromise": {
+      "title": "Our Response Promise",
+      "description": "We value your time and are committed to providing prompt, helpful responses to all inquiries.",
+      "times": {
+        "email": "Email Response Time",
+        "whatsapp": "WhatsApp Response",
+        "application": "Application Review"
+      },
+      "values": {
+        "email": "24 Hours",
+        "whatsapp": "Same Day",
+        "application": "48 Hours"
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "🌐 Understanding Tomorrow's World",
+      "title": "The World Is",
+      "titleHighlight": "Rapidly Revolving",
+      "description": "We're living through the most significant technological transformation in human history. Web 3.0, blockchain, artificial intelligence, and automation are reshaping every aspect of our lives. At ALFA LEARNING, we prepare students not just for today's world, but for tomorrow's possibilities."
+    },
+    "techTrends": {
+      "badge": "Technology Trends",
+      "title": "The Technology Revolution",
+      "subtitle": "Understanding the forces shaping our future is essential for educational success",
+      "items": {
+        "web3": {
+          "title": "Web 3.0 Revolution",
+          "description": "The decentralized internet is reshaping how we interact, learn, and work. Web 3.0 brings user ownership, blockchain integration, and AI-powered experiences."
+        },
+        "blockchain": {
+          "title": "Blockchain Technology",
+          "description": "Beyond cryptocurrency, blockchain is revolutionizing education credentials, digital identity, and secure data sharing across industries."
+        },
+        "ai": {
+          "title": "AI Transformation",
+          "description": "Artificial Intelligence is not just changing jobs - it's creating entirely new career paths and ways of thinking about problem-solving."
+        },
+        "darkFactory": {
+          "title": "Dark Factories",
+          "description": "China's automated manufacturing facilities operate without human intervention. Xiaomi's dark factories produce cars every 76 seconds and smartphones at unprecedented scales."
+        }
+      }
+    },
+    "aiImpact": {
+      "badge": "AI Impact",
+      "title": "How AI is Transforming Everything",
+      "subtitle": "From job markets to manufacturing, AI is creating a new world that requires new skills",
+      "items": {
+        "jobEvolution": {
+          "title": "Job Evolution",
+          "description": "AI isn't just replacing jobs - it's transforming them. New roles in AI management, human-AI collaboration, and creative problem-solving are emerging.",
+          "stat": "85 million jobs displaced, 97 million new jobs created by 2025"
+        },
+        "manufacturing": {
+          "title": "Manufacturing Revolution",
+          "description": "Xiaomi's dark factories showcase the future: fully automated production lines creating complex products like smartphones and cars without human intervention.",
+          "stat": "1 car every 76 seconds"
+        },
+        "education": {
+          "title": "Educational Transformation",
+          "description": "Personalized AI tutors, adaptive learning systems, and skill-based education are replacing traditional one-size-fits-all approaches.",
+          "stat": "40% of learning will be AI-assisted by 2030"
+        }
+      }
+    },
+    "darkFactory": {
+      "badge": "🏭 Manufacturing Revolution",
+      "title": "China's Dark Factories: The Future is Now",
+      "description": "Xiaomi's revolutionary dark factories operate 24/7 without human intervention, showcasing the pinnacle of automation and AI integration.",
+      "features": [
+        "Complete car assembly every 76 seconds",
+        "Smartphone production at unprecedented scale",
+        "24/7 operation with zero human workers"
+      ],
+      "stats": {
+        "title": "The Numbers",
+        "perCar": "Per Car",
+        "humanWorkers": "Human Workers",
+        "operation": "Operation",
+        "automated": "Automated"
+      }
+    },
+    "mission": {
+      "badge": "Our Mission",
+      "title": "Our Mission",
+      "subtitle": "Preparing Minds for Tomorrow",
+      "description": "ALFA Learning was founded with a simple vision to make world-class education accessible to every student in Indonesia. Too often, we have seen students who yearn to enrich themselves towards international standards only to be held back by barriers of high costs, distance and time away from family and loved ones as well as limited access to resources.<br><br>At the same time, we realized that traditional schools are focusing too much on academic memorization and results, while failing to prepare students for the future, A world that is experiencing constant change driven by the growing trend of intense global competition and most importantly, the evolution and perhaps potential threat of AI today.<br><br>Hence the mission of ALFA Learning.  To combine and harnesh the strength of our local, Singapore as well as internationally qualified teachers to form a future-proof and future-ready curriculum, delivered online at an affordable rate. The mission of Alfa Learning goes beyond textbooks — we aspire to nurture critical thinkers, problem-solvers, and confident learners who are ready to take on higher university pursuits, career advancements and the world ahead."
+    },
+    "values": {
+      "futureProof": {
+        "title": "Future-Proof Skills",
+        "description": "We teach not just subjects, but critical thinking, adaptability, and digital literacy essential for the AI age."
+      },
+      "globalStandards": {
+        "title": "Global Standards",
+        "description": "Singapore-qualified educators bring international perspectives and world-class teaching methodologies."
+      },
+      "continuousEvolution": {
+        "title": "Continuous Evolution",
+        "description": "Our curriculum evolves with technology, ensuring students are always learning the most relevant skills."
+      }
+    },
+    "cta": {
+      "title": "Ready to Prepare for Tomorrow?",
+      "description": "Don't let the future catch you unprepared. Join ALFA LEARNING and develop the skills, mindset, and knowledge needed to thrive in the age of AI and Web 3.0.",
+      "exploreClasses": "Explore Our Classes",
+      "startJourney": "Start Your Journey"
+    }
+  }
+}
